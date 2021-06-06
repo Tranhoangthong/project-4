@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.logo{
+	text-align: center;
+}
+.logo-img{
+	height: 45px;
+	width: 40px;
+}
+a.navbar-brand{
+	font-size: 27px;
+	font-weight: 600;
+}
+.nav-link{
+	margin: 5px 25px 5px 15px;
+}
+.bi-bell{
+	margin: 5px 5px 5px 25px;
+}	
+.bi-gear{
+	margin: 5px 5px 5px 25px;
+}	
+.bi-person-circle{
+	margin: 5px 5px 5px 25px;
+}	
+a.nav-link:hover{
+	background-color: #6266EA;
+	border-radius: 15px;
+	border-color: #6266EA;
+
+}
+.text-1{
+	height: 70%;
+	width: 70%;
+}
+.card-0 .card-1{
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
